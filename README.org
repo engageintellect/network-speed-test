@@ -1,15 +1,15 @@
-* INSTALL
-*** git clone https://github.com/jc9361/network-speed-test.git
+** INSTALL
+**** git clone https://github.com/jc9361/network-speed-tkest.git
 
-* Make sure you have 'speedtest-cil'
-** [ARCH]
+** Make sure you have 'speedtest-cil'
+*** [ARCH]
 $ sudo pacman -S speedtest-cli
 
-** [DEBIAN]
+*** [DEBIAN]
 $ sudo apt install speedtest-cli
 
-** [PIP]
+*** [PIP]
 $ pip install speedtest-cli
 
-* Run the script.
+** Run the script.
 ** $ python network-speed-test.py
