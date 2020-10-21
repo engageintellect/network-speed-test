@@ -1,5 +1,5 @@
 ** INSTALL
-**** git clone https://github.com/jc9361/network-speed-tkest.git
+**** $ git clone https://github.com/jc9361/network-speed-kest.git
 
 ** Make sure you have 'speedtest-cil'
 *** [ARCH]
@@ -11,5 +11,5 @@ $ sudo apt install speedtest-cli
 *** [PIP]
 $ pip install speedtest-cli
 
-** Run the script.
-** $ python network-speed-test.py
+*** Run the script.
+**** $ python network-speed-test.py
